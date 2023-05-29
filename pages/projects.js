@@ -52,7 +52,7 @@ export default function Projects() {
                                         <p className="text-purple-300 py- text-justify">
                                             "I can't recommend "istay" enough! They did an incredible job developing and coding a Discord server bot for me. Seriously, their skills are top-notch. The bot they created is just amazing and it works to my needs. istay is not only talented but also super friendly and easy to work with. I'm beyond happy with the results and would definitely choose them again for any future projects :D" <br/>- Oasis/Swiftblade (5/29/23)
                                         </p>
-                                        <a href="https://www.google.com" style={"color: #FF00FF"}>Test</a>
+                                        <p><a href="https://www.google.com" style="color: #FF00FF">Test</a></p>
                                         <div className="flex space-x-2">
                                             <a className="rounded-full" href="https://www.github.com/istaythatwaycoding/aquasis" target="_blank">
                                                 <svg className="h-8 w-8" fill="#fff" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
