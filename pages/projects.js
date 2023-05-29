@@ -49,11 +49,11 @@ export default function Projects() {
                                         <p className="text-gray-400 py- text-justify">
                                             Aquasis is a Discord Bot built for a content creator, "SwiftBlade"/"Oasis." It currently serves as replacing miscellaneous tasks! The github repository can be found by clicking the button below!
                                         </p>
-                                        <p className="text-gray-400 py- text-justify">
-                                            Aquasis is a Discord Bot built for a content creator, "SwiftBlade"/"Oasis." It currently serves as replacing miscellaneous tasks! The github repository can be found by clicking the button below!
+                                        <p className="text-purple-300 py- text-justify">
+                                            "I can't recommend "istay" enough! They did an incredible job developing and coding a Discord server bot for me. Seriously, their skills are top-notch. The bot they created is just amazing and it works to my needs. istay is not only talented but also super friendly and easy to work with. I'm beyond happy with the results and would definitely choose them again for any future projects :D" - Oasis/Swiftblade (5/29/23)
                                         </p>
                                         <div className="flex space-x-2">
-                                            <a className="rounded-full" href="https://www.github.com/istaythatwaycoding/istays-utilities" target="_blank">
+                                            <a className="rounded-full" href="https://www.github.com/istaythatwaycoding/aquasis" target="_blank">
                                                 <svg className="h-8 w-8" fill="#fff" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                     <title>Link</title>
                                                     <path d="M14.8284 12L16.2426 13.4142L19.071 10.5858C20.6331 9.02365 20.6331 6.49099 19.071 4.9289C17.509 3.3668 14.9763 3.3668 13.4142 4.9289L10.5858 7.75732L12 9.17154L14.8284 6.34311C15.6095 5.56206 16.8758 5.56206 17.6568 6.34311C18.4379 7.12416 18.4379 8.39049 17.6568 9.17154L14.8284 12Z" />
