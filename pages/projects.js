@@ -49,7 +49,6 @@ export default function Projects() {
                                         <p className="text-gray-400 py- text-justify">
                                             Aquasis is a Discord Bot built for a content creator, "SwiftBlade"/"Oasis." It currently serves as replacing miscellaneous tasks! The github repository can be found by clicking the button below!
                                         </p>
-                                        <br>test</br>
                                         <div className="flex space-x-2">
                                             <a className="rounded-full" href="https://www.github.com/istaythatwaycoding/istays-utilities" target="_blank">
                                                 <svg className="h-8 w-8" fill="#fff" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
