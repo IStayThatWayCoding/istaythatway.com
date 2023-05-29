@@ -50,7 +50,7 @@ export default function Projects() {
                                             Aquasis is a Discord Bot built for a content creator, "SwiftBlade"/"Oasis." It currently serves as replacing miscellaneous tasks! The github repository can be found by clicking the button below!
                                         </p>
                                         <p className="text-purple-300 py- text-justify">
-                                            "I can't recommend "istay" enough! They did an incredible job developing and coding a Discord server bot for me. Seriously, their skills are top-notch. The bot they created is just amazing and it works to my needs. istay is not only talented but also super friendly and easy to work with. I'm beyond happy with the results and would definitely choose them again for any future projects :D" &nbsp;&nbsp;&nbsp;- Oasis/Swiftblade (5/29/23)
+                                            "I can't recommend "istay" enough! They did an incredible job developing and coding a Discord server bot for me. Seriously, their skills are top-notch. The bot they created is just amazing and it works to my needs. istay is not only talented but also super friendly and easy to work with. I'm beyond happy with the results and would definitely choose them again for any future projects :D" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Oasis/Swiftblade (5/29/23)
                                         </p>
                                         <div className="flex space-x-2">
                                             <a className="rounded-full" href="https://www.github.com/istaythatwaycoding/aquasis" target="_blank">
@@ -63,6 +63,8 @@ export default function Projects() {
                                             </a>
                                         </div>
                                     </div>
+                                    <br>
+                                    </br>
                                     <div className="flex-grow space-y-2">
                                         <h1 className="text-3xl font-bold">IStay's Utilities Bot</h1>
                                         <p className="text-gray-400 py- text-justify">
