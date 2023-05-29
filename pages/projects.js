@@ -44,6 +44,8 @@ export default function Projects() {
                                             </a>
                                         </div>
                                     </div>
+                                    <br>
+                                    </br>
                                     <div className="flex-grow space-y-2">
                                         <h1 className="text-3xl font-bold">Aquasis</h1>
                                         <p className="text-gray-400 py- text-justify">
