@@ -67,10 +67,10 @@ export default function Navbar() {
                             Contact
                         </a>
                     </NavLink>
-                    <NavLink href="/donate">
-                    <a href="https://www.buymeacoffee.com/istay" className="w-full sm:w-auto flex-none text-gray-400 hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m" arget="_blank" rel="noopener noreferrer">
-                        Donate
-                    </a>
+                    <NavLink href="https://www.buymeacoffee.com/istay" arget="_blank" rel="noopener noreferrer">
+                        <a className="w-full sm:w-auto flex-none hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m">
+                            Donate
+                        </a>
                     </NavLink>
                     <a href="https://istay.shop/" className="w-full sm:w-auto flex-none text-gray-400 hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m" arget="_blank" rel="noopener noreferrer">
                         Merch
