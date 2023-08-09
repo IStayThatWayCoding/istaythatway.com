@@ -5,11 +5,11 @@ import { siGithub, siDiscord, siTwitter, siInstagram } from 'simple-icons/icons'
 import { Linkedin, Mail } from 'react-feather';
 
 export default function Contact() {
-    const initialDiscordText = 'istay#5154';
+    const initialDiscordText = 'istay';
     const [discordText, setDiscordText] = useState(initialDiscordText);
 
     function handleDiscordClick() {
-        navigator.clipboard.writeText("istay#5154").then(r => {
+        navigator.clipboard.writeText("istay").then(r => {
             setDiscordText('Copied to clipboard!');
 
             setTimeout(() => {
@@ -34,9 +34,9 @@ export default function Contact() {
                             </div>
                             <div className="mx-auto overflow-auto mt-4">
                                 <div className="grid gap-8 px-4 md:px-0 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
-                                    <a href="mailto:istay@istaythatway.xyz" className="bg-gray-800 text-white p-4 text-center rounded space-y-0.5">
+                                    <a href="mailto:contact@istaythatway.com" className="bg-gray-800 text-white p-4 text-center rounded space-y-0.5">
                                         <Mail className="mx-auto max-h-12" size={48} />
-                                        <p className="text-white text-xl overflow-ellipsis">istay@istaythatway.xyz</p>
+                                        <p className="text-white text-xl overflow-ellipsis">contact@istaythatway.com</p>
                                     </a>
                                     <a href="https://github.com/IStayThatWayCoding" className="bg-gray-800 text-white p-4 text-center rounded space-y-0.5" target="_blank" rel="noopener noreferrer">
                                         <svg
