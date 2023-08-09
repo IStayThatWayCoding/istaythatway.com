@@ -1,8 +1,9 @@
 import {useState} from 'react';
 import Layout from "../layout/layout";
 import {motion} from "framer-motion";
-import { siGithub, siDiscord, siTwitter, siInstagram, six } from 'simple-icons/icons';
+import { siGithub, siDiscord, siTwitter, siInstagram, siX } from 'simple-icons/icons';
 import { Linkedin, Mail } from 'react-feather';
+import { siXaml } from 'simple-icons';
 
 export default function Contact() {
     const initialDiscordText = 'istay';
@@ -67,8 +68,8 @@ export default function Contact() {
                                             className="mx-auto max-h-12"
                                             viewBox="0 0 24 24"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <title>{siTwitter.title}</title>
-                                            <path d={siTwitter.path} />
+                                            <title>{siX.title}</title>
+                                            <path d={siX.path} />
                                         </svg>
                                         <p className="text-white text-xl overflow-ellipsis">IStayThatWay</p>
                                     </a>
