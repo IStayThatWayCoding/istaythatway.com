@@ -1,9 +1,8 @@
 import {useState} from 'react';
 import Layout from "../layout/layout";
 import {motion} from "framer-motion";
-import { siGithub, siDiscord, siTwitter, siInstagram, siX } from 'simple-icons/icons';
+import { siGithub, siDiscord, siX } from 'simple-icons/icons';
 import { Linkedin, Mail } from 'react-feather';
-import { siXaml } from 'simple-icons';
 
 export default function Contact() {
     const initialDiscordText = 'istay';

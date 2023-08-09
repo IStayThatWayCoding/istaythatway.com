@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import Link from "next/link";
 import RomanNumerals from '../lib/romanNumerals';
-import { siGithub, siDiscord, siTwitter, siInstagram } from 'simple-icons/icons';
+import { siGithub, siDiscord, siX } from 'simple-icons/icons';
 import { Linkedin, Mail } from 'react-feather';
 
 export default function Footer() {
@@ -59,8 +59,8 @@ export default function Footer() {
                             className="w-5 h-5"
                             viewBox="0 0 24 24"
                             xmlns="http://www.w3.org/2000/svg">
-                            <title>{siTwitter.title}</title>
-                            <path d={siTwitter.path} />
+                            <title>{siX.title}</title>
+                            <path d={siX.path} />
                         </svg>
                     </a>
                 </span>
