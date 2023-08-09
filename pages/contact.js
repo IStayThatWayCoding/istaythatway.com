@@ -67,8 +67,8 @@ export default function Contact() {
                                             className="mx-auto max-h-12"
                                             viewBox="0 0 24 24"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <title>{six.title}</title>
-                                            <path d={six.path} />
+                                            <title>{siTwitter.title}</title>
+                                            <path d={siTwitter.path} />
                                         </svg>
                                         <p className="text-white text-xl overflow-ellipsis">IStayThatWay</p>
                                     </a>
