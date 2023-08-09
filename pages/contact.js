@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import Layout from "../layout/layout";
 import {motion} from "framer-motion";
-import { siGithub, siDiscord, siTwitter, siInstagram } from 'simple-icons/icons';
+import { siGithub, siDiscord, siTwitter, siInstagram, siX } from 'simple-icons/icons';
 import { Linkedin, Mail } from 'react-feather';
 
 export default function Contact() {
@@ -59,7 +59,7 @@ export default function Contact() {
                                             <path d={siDiscord.path} />
                                         </svg>
                                         <span className='tooltip bg-gray-800 text-white rounded shadow-lg'>{discordText}</span>
-                                        <p className="text-white text-xl overflow-ellipsis">istay#5154</p>
+                                        <p className="text-white text-xl overflow-ellipsis">istay</p>
                                     </button>
                                     <a href="https://twitter.com/IStayThatWay" className="bg-gray-800 text-white p-4 text-center rounded space-y-0.5" target="_blank" rel="noopener noreferrer">
                                         <svg
@@ -67,8 +67,8 @@ export default function Contact() {
                                             className="mx-auto max-h-12"
                                             viewBox="0 0 24 24"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <title>{siTwitter.title}</title>
-                                            <path d={siTwitter.path} />
+                                            <title>{siX.title}</title>
+                                            <path d={siX.path} />
                                         </svg>
                                         <p className="text-white text-xl overflow-ellipsis">IStayThatWay</p>
                                     </a>
