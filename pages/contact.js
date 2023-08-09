@@ -61,7 +61,7 @@ export default function Contact() {
                                         <span className='tooltip bg-gray-800 text-white rounded shadow-lg'>{discordText}</span>
                                         <p className="text-white text-xl overflow-ellipsis">istay</p>
                                     </button>
-                                    <a href="https://twitter.com/IStayThatWay" className="bg-gray-800 text-white p-4 text-center rounded space-y-0.5" target="_blank" rel="noopener noreferrer">
+                                    <a href="https://x.com/IStayThatWay" className="bg-gray-800 text-white p-4 text-center rounded space-y-0.5" target="_blank" rel="noopener noreferrer">
                                         <svg
                                             fill="currentColor"
                                             className="mx-auto max-h-12"
