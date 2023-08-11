@@ -89,8 +89,6 @@ export default function Projects() {
                                                     <path d="M14.8285 10.5857C15.219 10.1952 15.219 9.56199 14.8285 9.17147C14.4379 8.78094 13.8048 8.78094 13.4142 9.17147L9.1716 13.4141C8.78107 13.8046 8.78107 14.4378 9.1716 14.8283C9.56212 15.2188 10.1953 15.2188 10.5858 14.8283L14.8285 10.5857Z" />
                                                 </svg>
                                             </a>
-                                        </div>
-                                        <div className="flex space-x-2">
                                             <a className="rounded-full" href="https://www.github.com/istaythatwaycoding/aquasis" target="_blank">
                                                 <svg className="h-8 w-8" fill="#fff" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                     <title>Link</title>
