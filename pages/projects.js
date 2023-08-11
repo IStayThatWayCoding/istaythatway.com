@@ -74,10 +74,10 @@ export default function Projects() {
                                     <div className="flex-grow space-y-2">
                                         <h1 className="text-3xl font-bold">Dream Hosting</h1>
                                         <p className="text-gray-400 py- text-justify">
-                                            Dream Hosting is a fairly new server hosting company, owned by a good friend of IStay. You can check out everything on the Discord Server by clicking the <span className="text-indigo-200">white</span> link button below. You can also check out their website by clicking the <span className="text-indigo-200">purple</span> link button below!
+                                            Dream Hosting is a fairly new server hosting company, owned by a good friend of IStay. You can check out everything on the Discord Server by clicking the <span className="text-white-200">white</span> link button below. You can also check out their website by clicking the <span className="text-indigo-200">purple</span> link button below!
                                         </p>
                                         <p className="text-purple-300 py- text-justify">
-                                            CEO at Dream Hosting - "IStay has helped Dream Hosting with a few upgrades to the company over the course of this year. He has spent many hours coding/implementing a panel for Dream Hosting's users to access their servers. He has also set up a panel for the status of the computer hardware for Dream Hosting. He has been a good advertiser for the company as well with his Minecraft event called Minecraft Madness. He is knowledgeable and reliable."<a href="https://discord.gg/EBJk36MkaY" target="_blank">- SuperPlaysGamer (8/10/23)</a>
+                                            CEO at Dream Hosting - "IStay has helped Dream Hosting with a few upgrades to the company over the course of this year. He has spent many hours coding/implementing a panel for Dream Hosting's users to access their servers. He has also set up a panel for the status of the computer hardware for Dream Hosting. He has been a good advertiser for the company as well with his Minecraft event called Minecraft Madness. He is knowledgeable and reliable."<br/><a href="https://discord.gg/EBJk36MkaY" target="_blank">- SuperPlaysGamer (8/10/23)</a>
                                         </p>
         
                                         <div className="flex space-x-2">
