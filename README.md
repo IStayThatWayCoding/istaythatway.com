@@ -5,8 +5,4 @@
 [![Language](https://img.shields.io/github/languages/top/IStayThatWayCoding/istays-utilities?color=f0db4f&logoColor=white&style=for-the-badge)]()
 [![Library](https://img.shields.io/badge/library-react.js-62dafc?style=for-the-badge)](https://react.dev)
 
-IStay's Utilities is a bot that is custom made and only used in <a href="https://www.dsc.gg/istay">**IStay's Resort**</a>.
-
-With tons of commands that are useful for moderation, it makes the server a better place. Also, with it's database, keeps track of all user activity. IStay's Utilities comes with a completly custom leveling system, making it super easy to fully customize.
-
-IStay's Utilities is currently being maintained and updates almost everyday with the best Discord API integration possible.
+[istaythatway.com](https://www.istaythatway.com) is a website to display information about IStayThatWay.
