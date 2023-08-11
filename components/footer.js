@@ -64,7 +64,7 @@ export default function Footer() {
                         </svg>
                     </a>
                 </span>
-            </footer>
+           
         </>
     )
 }
