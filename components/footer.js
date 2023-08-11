@@ -20,8 +20,8 @@ export default function Footer() {
 
     return (
         <>
-            {/* <footer className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
-                <p className="text-xl">
+            <footer className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+                {/* <p className="text-xl">
                     © {RomanNumerals(new Date().getFullYear())}
                     {" "} */}
                 <p className="text-xl">
@@ -67,7 +67,7 @@ export default function Footer() {
                         </svg>
                     </a>
                 </span>
-           
+           </footer>
         </>
     )
 }
