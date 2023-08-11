@@ -20,14 +20,14 @@ export default function Footer() {
 
     return (
         <>
-            <footer className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+            {/* <footer className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
                 <p className="text-xl">
                     © {RomanNumerals(new Date().getFullYear())}
-                    {" "}
+                    {" "} */}
                     <Link href="/">
-                        <a>IStayThatWay</a>
+                        <a>© 2023 IStayThatWay</a>
                     </Link>
-                </p>
+                {/* </p> */}
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start gap-x-4 md:gap-2.5">
                     <a href="mailto:contact@istaythatway.com" className="text-gray-400">
                         <Mail className="w-5 h-5" />
