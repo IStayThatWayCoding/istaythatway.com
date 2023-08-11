@@ -62,6 +62,11 @@ export default function Navbar() {
                     {/* <a href="https://docs.google.com/document/d/1-oJ24ZwIc71zgaARjS6fhlZuoKKmuGIHNfq7OFhpYiw/edit?usp=sharing" className="w-full sm:w-auto flex-none text-gray-400 hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m" arget="_blank" rel="noopener noreferrer">
                         Resume
                     </a> */}
+                    <NavLink href="/resume">
+                        <a className="w-full sm:w-auto flex-none hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m">
+                            Resume
+                        </a>
+                    </NavLink>
                     <NavLink href="/contact">
                         <a className="w-full sm:w-auto flex-none hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m">
                             Contact
