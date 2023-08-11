@@ -29,7 +29,7 @@ export default function Footer() {
                     </Link>
                 </p>
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start gap-x-4 md:gap-2.5">
-                    <a href="mailto:istay@istaythatway.xyz" className="text-gray-400">
+                    <a href="mailto:contact@istaythatway.com" className="text-gray-400">
                         <Mail className="w-5 h-5" />
                     </a>
                     <a href="https://github.com/IStayThatWayCoding" className="text-gray-400" target="_blank" rel="noopener noreferrer">
