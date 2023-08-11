@@ -42,7 +42,7 @@
 
 /* Scrollbar */
 html, body {
-    scrollbar-color: #F43F5E #18181B;
+    scrollbar-color: #6366f1 #18181B;
     scrollbar-width: thin;
 }
 ::-webkit-scrollbar {
