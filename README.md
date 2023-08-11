@@ -1,46 +1,8 @@
-## Tools and services used
+<a href="https://istaythatway.com"><img width="120" height="120" align="left" style="float: left" src="https://i.imgur.com/BEBZU0I.png"></a>
+# IStayThatWay's Website
 
-<table>
-  <tr>
-    <td align="center">
-        <a href="https://nextjs.org/">
-            <img src="https://simpleicons.org/icons/nextdotjs.svg" width="100px;" alt="Next.js"/>
-            <br/>
-            <sub>
-                <b>Next.js</b>
-            </sub>
-        </a>
-        <br/>
-    </td>
-    <td align="center">
-        <a href="https://tailwindcss.com/">
-            <img src="https://simpleicons.org/icons/tailwindcss.svg" width="100px;" alt="TailwindCSS"/>
-            <br/>
-            <sub>
-                <b>TailwindCSS</b>
-            </sub>
-        </a>
-        <br/>
-    </td>
-    <td align="center">
-        <a href="https://www.framer.com/motion/">
-            <img src="https://simpleicons.org/icons/framer.svg" width="100px;" alt="Framer Motion"/>
-            <br/>
-            <sub>
-                <b>Framer Motion</b>
-            </sub>
-        </a>
-        <br/>
-    </td>
-    <td align="center">
-        <a href="https://pages.cloudflare.com/">
-            <img src="https://simpleicons.org/icons/cloudflare.svg" width="100px;" alt="Cloudflare Pages"/>
-            <br/>
-            <sub>
-                <b>Cloudflare Pages</b>
-            </sub>
-        </a>
-        <br/>
-    </td>
-  </tr>
-</table>
+[![IStay's Resort](https://img.shields.io/discord/713668933433163827?color=%235865F2&logo=discord&logoColor=%23ffffff&style=for-the-badge)](https://dsc.gg/istay)
+[![Language](https://img.shields.io/github/languages/top/IStayThatWayCoding/istays-utilities?color=f0db4f&logoColor=white&style=for-the-badge)]()
+[![Library](https://img.shields.io/badge/library-react.js-62dafc?style=for-the-badge)](https://react.dev)
+
+[istaythatway.com](https://www.istaythatway.com) is a website to display information about IStayThatWay.
