@@ -24,8 +24,11 @@ export default function Footer() {
                 <p className="text-xl">
                     © {RomanNumerals(new Date().getFullYear())}
                     {" "} */}
+                <p className="text-xl">
+                    © 2023 
+                </p>
                     <Link href="/">
-                        <a>© 2023 IStayThatWay</a>
+                        <a>IStayThatWay</a>
                     </Link>
                 {/* </p> */}
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start gap-x-4 md:gap-2.5">
