@@ -16,6 +16,7 @@ return (
                             <p className="text-orange-200 text-lg font-medium px-4">
                                 Management with Websites, Minecraft/Discord Servers/Bots
                             </p>
+                            <br/>
                             <p className="text-gray-200 text-lg font-medium px-4">
                                 Current/previous work is listed here. If you have any questions, please don't hesitate to email me at <a href="mailto:contact@istaythatway.com" target="_blank">contact@istaythatway.com</a><br/>Other contact methods are <a href="https://istaythatway.com/contact" target="_self">listed here (Click)</a>
                             </p>
