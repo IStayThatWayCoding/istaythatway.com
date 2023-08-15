@@ -15,7 +15,7 @@ const currentColor = '4F46E5'
                             <div className="container lg:w-3/5 w-11/12 mx-auto mt-4">
                                 <div className="text-left md:text-justify space-y-6 text-lg font-medium text-gray-200">
                                     <p>
-                                        Hey there! My name is Justin AKA IStay from the US. I am a young highschooler who likes program in multiple coding languages and environments. I create content on <span className="text-indigo-200">twitch</span> and <span className="text-indigo-200">youtube</span>. I have always wanted to make content for years and hopefully be able to have youtube and twitch as a job! Consider checking out my social medias and hangout with me!
+                                    Hey there! My name is IStay, also known as Justin in real life, and I am a 16-year-old individual with extensive experience in management roles. I reside in the Eastern Standard Time (EST) zone within the United States. Having joined Discord in 2015, I thoroughly enjoy engaging with users worldwide and establishing connections with people. I offer various services, including coding Discord bots, managing social media platforms, overseeing staff, maintaining websites, and more. Past employers have described me as an amiable and reliable individual. I excel in resolving player issues while maintaining a professional attitude. Moreover, I foster community unity and extend assistance to anyone in need. My dedication and hard work have proven invaluable to fellow staff members, saving them significant time. I possess a strong work ethic and willingly assist those needing help.
                                     </p>
                                     <div className="space-y-2">
                                         <p>
@@ -41,4 +41,4 @@ const currentColor = '4F46E5'
     )
 }
 
-// logoColor=4F46E5 FOR NORMAL BRANDING
+// logoColor=4F46E5 FOR NORMAL BRANDING 

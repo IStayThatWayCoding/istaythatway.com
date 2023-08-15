@@ -32,14 +32,12 @@ return (
                                 </div>
                             </div> */}
                             {/* <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4"> */}
-                            <p className="text-gray-200 text-lg font-medium px-4">
-                                Test
-                            </p>
+
+                            
 
                                 <div className="flex-grow space-y-2">
-                                    <h1 className="text-3xl font-bold">Lorem Ipsum</h1>
-                                    <p className="text-gray-400 py- text-justify">
-                                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+                                    <p className="text-orange-200 text-lg font-medium px-4">
+                                        Hi, my name is IStay, also known as Justin in real life, and I am a 16-year-old individual with extensive experience in management roles. I reside in the Eastern Standard Time (EST) zone within the United States. Having joined Discord in 2015, I thoroughly enjoy engaging with users worldwide and establishing connections with people. I offer various services, including coding Discord bots, managing social media platforms, overseeing staff, maintaining websites, and more. Past employers have described me as an amiable and reliable individual. I excel in resolving player issues while maintaining a professional attitude. Moreover, I foster community unity and extend assistance to anyone in need. My dedication and hard work have proven invaluable to fellow staff members, saving them significant time. I possess a strong work ethic and willingly assist those needing help.
                                     </p>
                                     <div className="flex space-x-2">
                                         <a className="rounded-full" href="#" target="_blank">
