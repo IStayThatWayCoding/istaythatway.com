@@ -35,10 +35,8 @@ return (
 
                             
 
-                                <div className="flex-grow space-y-2">
-                                    <p className="text-orange-200 text-lg font-medium px-4">
-                                        Hi, my name is IStay, also known as Justin in real life, and I am a 16-year-old individual with extensive experience in management roles. I reside in the Eastern Standard Time (EST) zone within the United States. Having joined Discord in 2015, I thoroughly enjoy engaging with users worldwide and establishing connections with people. I offer various services, including coding Discord bots, managing social media platforms, overseeing staff, maintaining websites, and more. Past employers have described me as an amiable and reliable individual. I excel in resolving player issues while maintaining a professional attitude. Moreover, I foster community unity and extend assistance to anyone in need. My dedication and hard work have proven invaluable to fellow staff members, saving them significant time. I possess a strong work ethic and willingly assist those needing help.
-                                    </p>
+                                <div className="text-center">
+                                <h1 className="text-3xl font-bold">Average Ratings</h1>
                                     <div className="flex space-x-2">
                                         <a className="rounded-full" href="#" target="_blank">
                                             <svg className="h-8 w-8" fill="#fff" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
