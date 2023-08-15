@@ -38,7 +38,7 @@ return (
                                 <br/>
                                 <div className="text-center">
                                 <h1 className="text-3xl font-bold">Average Ratings</h1>
-                                <p className="text-gray-400 py- text-justify">
+                                <p className="text-gray-200 text-lg font-medium px-4">
                                     Staff Management - <p className="text-orange-400 py- text=justify">★★★★★</p>
                                 </p>
                                 </div>
