@@ -39,7 +39,7 @@ return (
                                 <div className="text-center">
                                 <h1 className="text-3xl font-bold">Average Ratings</h1>
                                 <p className="text-gray-200 text-lg font-medium px-4">
-                                    Staff Management - <p className="text-orange-400 py- text=justify">★★★★★</p>
+                                    Staff Management - <p className="text-gray-200 text-lg font-medium px-4">★★★★★</p>
                                 </p>
                                 </div>
                                 <div className="flex-grow space-y-2">
