@@ -13,6 +13,9 @@ return (
                             <h1 className="md:text-6xl text-3xl font-bold">
                                 IStayThatWay's <span className="text-indigo-500">Resume</span>
                             </h1>
+                            <p className="text-orange-200 text-lg font-medium px-4">
+                                Management with Websites, Minecraft/Discord Servers/Bots
+                            </p>
                             <p className="text-gray-200 text-lg font-medium px-4">
                                 Current/previous work is listed here. If you have any questions, please don't hesitate to email me at <a href="mailto:contact@istaythatway.com" target="_blank">contact@istaythatway.com</a><br/>Other contact methods are <a href="https://istaythatway.com/contact" target="_self">listed here (Click)</a>
                             </p>
@@ -28,13 +31,10 @@ return (
                                 </div>
                             </div> */}
                             {/* <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4"> */}
-                            <div className="flex items-center justify-center h-full w-full p-4">
-                                    <div className="text-center space-y-1">
                             <p className="text-gray-200 text-lg font-medium px-4">
                                 Test
                             </p>
-                            </div>
-                                </div>
+
                                 <div className="flex-grow space-y-2">
                                     <h1 className="text-3xl font-bold">Lorem Ipsum</h1>
                                     <p className="text-gray-400 py- text-justify">
