@@ -21,7 +21,7 @@ return (
                                 Current/previous work is listed here. If you have any questions, please don't hesitate to email me at <a href="mailto:contact@istaythatway.com" target="_blank">contact@istaythatway.com</a><br/>Other contact methods are <a href="https://istaythatway.com/contact" target="_self">listed here (Click)</a>
                             </p>
                         </div>
-                        {/* <div className="relative w-11/12 mx-auto overflow-auto">
+                        <div className="relative w-11/12 mx-auto overflow-auto">
                             <div className="absolute h-full w-full p-20 z-20">
                                 <div className="flex items-center justify-center h-full w-full p-4">
                                     <div className="text-center space-y-1">
@@ -30,8 +30,8 @@ return (
                                         </h1>
                                     </div>
                                 </div>
-                            </div> */}
-                            {/* <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4"> */}
+                            </div>
+                            <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4">
 
                             
                                 <br/>
@@ -62,8 +62,8 @@ return (
                                                 <path d="M14.8285 10.5857C15.219 10.1952 15.219 9.56199 14.8285 9.17147C14.4379 8.78094 13.8048 8.78094 13.4142 9.17147L9.1716 13.4141C8.78107 13.8046 8.78107 14.4378 9.1716 14.8283C9.56212 15.2188 10.1953 15.2188 10.5858 14.8283L14.8285 10.5857Z" />
                                             </svg>
                                         </a>
-                                    {/* </div>
-                                </div> */}
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </motion.div>
