@@ -34,7 +34,8 @@ return (
                             {/* <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4"> */}
 
                             
-
+                                <br/>
+                                <br/>
                                 <div className="text-center">
                                 <h1 className="text-3xl font-bold">Average Ratings</h1>
                                     <div className="flex space-x-2">
