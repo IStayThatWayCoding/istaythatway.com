@@ -17,7 +17,7 @@ export default function Layout({
               <link rel="icon" href="/favicon.ico" />
               <meta property="og:title" content={`IStayThatWay${title && ` - ${title}`}`} />
               <meta property="og:description" content="Information about IStayThatWay" />
-              <meta property="og:image" content="https://istaythatway.xyz/logo.webp" />
+              <meta property="og:image" content="https://istaythatway.com/logo.webp" />
               <meta name="theme-color" content="#A855F7" />
               <meta name="twitter:card" content="summary_large_image" />
               <meta name="twitter:site" content="@IStayThatWay" />
