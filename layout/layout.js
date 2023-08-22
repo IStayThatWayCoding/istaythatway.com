@@ -23,7 +23,7 @@ export default function Layout({
               <meta name="twitter:site" content="@IStayThatWay" />
               <meta name="twitter:title" content={`IStayThatWay${title && ` - ${title}`}`} />
               <meta name="twitter:description" content="Information about IStayThatWay"/>
-              <meta name="twitter:image" content="https://istaythatway.xyz/logo.webp"/>
+              <meta name="twitter:image" content="https://istaythatway.com/logo.webp"/>
           </Head>
           <div className="flex flex-col min-h-screen">
               <Navbar />
