@@ -10,7 +10,7 @@ export default function Projects() {
                         <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                             <div className="text-center">
                                 <h1 className="md:text-6xl text-3xl font-bold">
-                                    My <span className="text-indigo-500">projects</span>
+                                    My <span className="text-orange-500">projects</span>
                                 </h1>
                                 <p className="text-gray-200 text-lg font-medium px-4">
                                     Featured & recent projects

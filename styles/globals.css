@@ -59,12 +59,18 @@ html, body {
 
 /* Links */
 a {
-    @apply text-indigo-500;
+    @apply text-orange-500;
+    
 }
+/* Normal: @apply text-indigo-500 */
+/* Halloween: @apply text-orange-500*/
 
 a:hover {
-    @apply text-indigo-600 duration-200;
+    @apply text-orange-600 duration-200;
 }
+
+/* Normal: @apply text-indigo-600 duration-200 */
+/* Halloween: @apply text-orange-600 duration-200 */
 
 /* Tooltip */
 .tooltip {

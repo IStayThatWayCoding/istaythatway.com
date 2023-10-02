@@ -11,7 +11,7 @@ return (
                     <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                         <div className="text-center">
                             <h1 className="md:text-6xl text-3xl font-bold">
-                                IStayThatWay's <span className="text-indigo-500">Resume</span>
+                                IStayThatWay's <span className="text-orange-500">Resume</span>
                             </h1>
                             <p className="text-orange-200 text-lg font-medium px-4">
                                 Management with Websites, Minecraft/Discord Servers/Bots
