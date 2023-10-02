@@ -97,3 +97,7 @@ a:hover {
   z-index: 999;
 }
 
+.page-content {
+  margin-top: 40px;
+}
+

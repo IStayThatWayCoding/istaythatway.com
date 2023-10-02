@@ -8,13 +8,15 @@ export default function Projects() {
                 <div className="w-full">
                     <div className="container flex mx-auto justify-center">
                         <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
+                            <div class="page-content">
                             <div className="text-center">
-                                <h1 className="md:text-6xl text-3xl font-bold">
+                                <h1 className="text-center md:text-6xl text-3xl font-bold">
                                     My <span className="text-orange-500">projects</span>
                                 </h1>
                                 <p className="text-gray-200 text-lg font-medium px-4">
                                     Featured & recent projects
                                 </p>
+                            </div>
                             </div>
                             {/* <div className="relative w-11/12 mx-auto overflow-auto">
                                 <div className="absolute h-full w-full p-20 z-20">
