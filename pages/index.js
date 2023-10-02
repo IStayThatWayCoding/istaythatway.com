@@ -1,3 +1,4 @@
+import AnnouncementBanner from "../components/AnnouncementBanner";
 import Layout from "../layout/layout";
 import { motion } from "framer-motion";
 

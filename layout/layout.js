@@ -1,11 +1,13 @@
 import Head from 'next/head';
 import Navbar from "../components/navbar";
 import Footer from "../components/footer";
+import AnnouncementBanner from '../components/AnnouncementBanner';
 
 export default function Layout({
   children,
   title = '',
                                }) {
+
   return (
       <>
           <Head>
@@ -25,8 +27,11 @@ export default function Layout({
               <meta name="twitter:description" content="Information about IStayThatWay"/>
               <meta name="twitter:image" content="https://istaythatway.com/logo.webp"/>
           </Head>
+
+          
           <div className="flex flex-col min-h-screen">
               <Navbar />
+              <AnnouncementBanner />
               {children}
               <Footer />
           </div>
