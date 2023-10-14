@@ -16,7 +16,7 @@ const AnnouncementBanner = () => {
 
   return (
     <div className="announcement-banner">
-      <p>Happy Halloween! Enjoy the Halloween colors until November 1st!</p>
+      <p>New video coming soon! // Happy Spooky Month! 🎃</p>
     </div>
   );
 };
