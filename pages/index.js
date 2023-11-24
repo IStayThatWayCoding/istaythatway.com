@@ -12,12 +12,12 @@ export default function Home() {
                         <h1 className="md:text-6xl text-3xl font-bold">
                           Hey there! {" "} 
                           <span className="wave" role="img" aria-labelledby="wave">
-                            🎃
+                            🎄
                           </span>
                         </h1>
 
                         <h1 className="md:text-6xl text-3xl font-bold">
-                            I'm <span className="text-orange-500">IStayThatWay</span>
+                            I'm <span className="text-rose-500">IStayThatWay</span>
                         </h1>
                         <p className="text-gray-200 text-lg font-medium">
                             Content Creator & Developer

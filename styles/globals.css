@@ -59,14 +59,14 @@ html, body {
 
 /* Links */
 a {
-    @apply text-orange-500;
+    @apply text-rose-500;
     
 }
 /* Normal: @apply text-indigo-500 */
 /* Halloween: @apply text-orange-500*/
 
 a:hover {
-    @apply text-orange-600 duration-200;
+    @apply text-green-400 duration-200;
 }
 
 /* Normal: @apply text-indigo-600 duration-200 */
@@ -85,7 +85,7 @@ a:hover {
 }
 
 .announcement-banner {
-  background-color: #ff5722;
+  background-color: #f43f5e;
   font-size: 20px;
   color: #fff;
   padding: 10px 20px;
