@@ -2,7 +2,7 @@ import Layout from "../layout/layout";
 import { motion } from "framer-motion";
 
 export default function About() {
-const currentColor = '4ade80'
+const currentColor = '4F46E5'
     return (
         <Layout title="About me">
             <div className="flex flex-grow items-center">
@@ -10,7 +10,7 @@ const currentColor = '4ade80'
                     <div className="container flex mx-auto justify-center">
                         <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                             <h1 className="text-center md:text-6xl text-3xl font-bold">
-                                About <span className="text-rose-500">me</span>
+                                About <span className="text-indigo-500">me</span>
                             </h1>
                             <div className="container lg:w-3/5 w-11/12 mx-auto mt-4">
                                 <div className="text-left md:text-justify space-y-6 text-lg font-medium text-gray-200">

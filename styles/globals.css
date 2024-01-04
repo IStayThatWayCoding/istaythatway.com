@@ -54,23 +54,25 @@ html, body {
 }
 ::-webkit-scrollbar-thumb:vertical {
     height: 30px;
-    background-color: #F43F5E;
+    background-color: #6366f1;
 }
 
 /* Links */
 a {
-    @apply text-rose-500;
+    @apply text-indigo-500;
     
 }
 /* Normal: @apply text-indigo-500 */
 /* Halloween: @apply text-orange-500*/
+/* Christmas: @apply text-rose-5000*/
 
 a:hover {
-    @apply text-green-400 duration-200;
+    @apply text-indigo-600 duration-200
 }
 
 /* Normal: @apply text-indigo-600 duration-200 */
 /* Halloween: @apply text-orange-600 duration-200 */
+/* Christmas: @apply text-green-400 duration-200; */
 
 /* Tooltip */
 .tooltip {
@@ -85,7 +87,7 @@ a:hover {
 }
 
 .announcement-banner {
-  background-color: #f43f5e;
+  background-color: #4F46E5;
   font-size: 20px;
   color: #fff;
   padding: 10px 20px;
@@ -101,3 +103,5 @@ a:hover {
   margin-top: 40px;
 }
 
+/* #f43f5e - Christmas */
+/* #4F46E5 - normal */
