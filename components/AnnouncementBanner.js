@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 // Use Announcement Banner? //
-var sAB = false
+var sAB = true
 
 const AnnouncementBanner = () => {
   const [isVisible, setIsVisible] = useState(sAB); // Set to false by default
@@ -16,7 +16,7 @@ const AnnouncementBanner = () => {
 
   return (
     <div className="announcement-banner">
-      <p>🎄 HAPPY HOLIDAYS! 🎄</p>
+      <p>NEW YOUTUBE VIDEO: video.istaythatway.com</p>
     </div>
   );
 };
